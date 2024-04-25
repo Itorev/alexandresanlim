@@ -28,7 +28,7 @@
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/alexandresanlim'>sponsor me ❤️</a>
+ 
 </p>
 
 <!-- <details align='center'>
@@ -36,7 +36,7 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me:
 </p>
 
 
